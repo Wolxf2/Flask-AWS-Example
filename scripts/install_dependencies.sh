@@ -1,3 +1,5 @@
+#!/bin/bash
+
 cd /home/ubuntu/
 
 virtualenv -ppython3 venv
